@@ -1,8 +1,5 @@
-# Project-Title 
-**Project Charter:** [[Project Template]](https://docs.google.com/document/d/1MUbJ3Rik60RhbwDgCIB3yboMpBxUQmVMdgNTDUj5A6c/edit).
+# Anduril 4 Lower Avionics Bay PCB Standard
+**Project Charter:** [[LAB Standardized PCB Project]](https://docs.google.com/document/d/18MloIHTAx2GAG6wihm-KCOJaHlWnbtFHpxLNvzzFSkM/edit).
 
 ## Description
-*[Purpose of project, which rocket (if applicable), tech used (databases, frameworks, stack, hardware, etc.), what language is used, etc. Keep brief.]*
-
-## Setup Guide
-*[Fill out if applicable]*
+**Status: DRAFT**
