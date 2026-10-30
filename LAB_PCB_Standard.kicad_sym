@@ -101,7 +101,7 @@
 			(pin passive line
 				(at -11.43 22.86 0)
 				(length 3.81)
-				(name "GND"
+				(name "Pin_1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -119,7 +119,7 @@
 			(pin passive line
 				(at 16.51 22.86 180)
 				(length 3.81)
-				(name "3V3_TELE_B"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -137,7 +137,7 @@
 			(pin passive line
 				(at -11.43 20.32 0)
 				(length 3.81)
-				(name "GND"
+				(name "Pin_3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -155,7 +155,7 @@
 			(pin passive line
 				(at 16.51 20.32 180)
 				(length 3.81)
-				(name "5V_TELE_A"
+				(name "3V3_TELE"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -191,7 +191,7 @@
 			(pin passive line
 				(at 16.51 17.78 180)
 				(length 3.81)
-				(name "3V3_FC"
+				(name "5V_TELE"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -209,7 +209,7 @@
 			(pin passive line
 				(at -11.43 15.24 0)
 				(length 3.81)
-				(name "Pin_7"
+				(name "3V3_FC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -263,7 +263,7 @@
 			(pin passive line
 				(at 16.51 12.7 180)
 				(length 3.81)
-				(name "CAN_L"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -299,7 +299,7 @@
 			(pin passive line
 				(at 16.51 10.16 180)
 				(length 3.81)
-				(name "CAN_H"
+				(name "CAN_L"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -335,7 +335,7 @@
 			(pin passive line
 				(at 16.51 7.62 180)
 				(length 3.81)
-				(name "SENS_SYNC"
+				(name "CAN_H"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -497,7 +497,7 @@
 			(pin passive line
 				(at -11.43 -5.08 0)
 				(length 3.81)
-				(name "GND"
+				(name "Pin_23"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -533,7 +533,7 @@
 			(pin passive line
 				(at -11.43 -7.62 0)
 				(length 3.81)
-				(name "GND"
+				(name "Pin_25"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -551,7 +551,7 @@
 			(pin passive line
 				(at 16.51 -7.62 180)
 				(length 3.81)
-				(name "5V_CAM"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -569,7 +569,7 @@
 			(pin passive line
 				(at -11.43 -10.16 0)
 				(length 3.81)
-				(name "GND"
+				(name "5V_CAM"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -641,7 +641,7 @@
 			(pin passive line
 				(at -11.43 -15.24 0)
 				(length 3.81)
-				(name "GND"
+				(name "5V_SENS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -659,7 +659,7 @@
 			(pin passive line
 				(at 16.51 -15.24 180)
 				(length 3.81)
-				(name "Pin_32"
+				(name "5V_SENS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -677,7 +677,7 @@
 			(pin passive line
 				(at -11.43 -17.78 0)
 				(length 3.81)
-				(name "GND"
+				(name "Pin_33"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -695,7 +695,7 @@
 			(pin passive line
 				(at 16.51 -17.78 180)
 				(length 3.81)
-				(name "5V_SENS_A"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -713,7 +713,7 @@
 			(pin passive line
 				(at -11.43 -20.32 0)
 				(length 3.81)
-				(name "GND"
+				(name "3V3_SENS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -731,7 +731,7 @@
 			(pin passive line
 				(at 16.51 -20.32 180)
 				(length 3.81)
-				(name "5V_SENS_A"
+				(name "3V3_SENS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -767,7 +767,7 @@
 			(pin passive line
 				(at 16.51 -22.86 180)
 				(length 3.81)
-				(name "3V3_SENS_B"
+				(name "Pin_38"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -785,7 +785,7 @@
 			(pin passive line
 				(at -11.43 -25.4 0)
 				(length 3.81)
-				(name "GND"
+				(name "5V"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -803,7 +803,7 @@
 			(pin passive line
 				(at 16.51 -25.4 180)
 				(length 3.81)
-				(name "3V3_SENS_B"
+				(name "5V"
 					(effects
 						(font
 							(size 1.27 1.27)
