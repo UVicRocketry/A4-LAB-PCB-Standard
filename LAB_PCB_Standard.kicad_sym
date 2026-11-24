@@ -98,7 +98,7 @@
 					(type background)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at -11.43 22.86 0)
 				(length 3.81)
 				(name "Pin_1"
@@ -134,7 +134,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at -11.43 20.32 0)
 				(length 3.81)
 				(name "Pin_3"
@@ -224,7 +224,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at 16.51 15.24 180)
 				(length 3.81)
 				(name "Pin_8"
@@ -242,7 +242,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at -11.43 12.7 0)
 				(length 3.81)
 				(name "Pin_9"
@@ -278,7 +278,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at -11.43 10.16 0)
 				(length 3.81)
 				(name "Pin_11"
@@ -296,7 +296,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 16.51 10.16 180)
 				(length 3.81)
 				(name "CAN_L"
@@ -332,7 +332,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 16.51 7.62 180)
 				(length 3.81)
 				(name "CAN_H"
@@ -350,7 +350,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at -11.43 5.08 0)
 				(length 3.81)
 				(name "SENS_SYNC"
@@ -368,7 +368,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 16.51 5.08 180)
 				(length 3.81)
 				(name "GPS_PPS"
@@ -386,7 +386,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at -11.43 2.54 0)
 				(length 3.81)
 				(name "Pin_17"
@@ -422,7 +422,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at -11.43 0 0)
 				(length 3.81)
 				(name "Pin_19"
@@ -440,7 +440,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at 16.51 0 180)
 				(length 3.81)
 				(name "Pin_20"
@@ -479,7 +479,7 @@
 			(pin passive line
 				(at 16.51 -2.54 180)
 				(length 3.81)
-				(name "3V3_PYLD"
+				(name "5V_PYLD"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -494,7 +494,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at -11.43 -5.08 0)
 				(length 3.81)
 				(name "Pin_23"
@@ -530,7 +530,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at -11.43 -7.62 0)
 				(length 3.81)
 				(name "Pin_25"
@@ -620,7 +620,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at 16.51 -12.7 180)
 				(length 3.81)
 				(name "Pin_30"
@@ -641,7 +641,7 @@
 			(pin passive line
 				(at -11.43 -15.24 0)
 				(length 3.81)
-				(name "5V_SENS"
+				(name "6.5V_SENS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -659,7 +659,7 @@
 			(pin passive line
 				(at 16.51 -15.24 180)
 				(length 3.81)
-				(name "5V_SENS"
+				(name "6.5V_SENS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -674,7 +674,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at -11.43 -17.78 0)
 				(length 3.81)
 				(name "Pin_33"
@@ -713,7 +713,7 @@
 			(pin passive line
 				(at -11.43 -20.32 0)
 				(length 3.81)
-				(name "3V3_SENS"
+				(name "3V3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -731,7 +731,7 @@
 			(pin passive line
 				(at 16.51 -20.32 180)
 				(length 3.81)
-				(name "3V3_SENS"
+				(name "3V3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -764,7 +764,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at 16.51 -22.86 180)
 				(length 3.81)
 				(name "Pin_38"
